@@ -1,0 +1,15 @@
+C:\Users\Lou\source\repos\LouClock\bin\Debug\net7.0\LouClock.exe
+C:\Users\Lou\source\repos\LouClock\bin\Debug\net7.0\LouClock.deps.json
+C:\Users\Lou\source\repos\LouClock\bin\Debug\net7.0\LouClock.runtimeconfig.json
+C:\Users\Lou\source\repos\LouClock\bin\Debug\net7.0\LouClock.dll
+C:\Users\Lou\source\repos\LouClock\bin\Debug\net7.0\LouClock.pdb
+C:\Users\Lou\source\repos\LouClock\obj\Debug\net7.0\LouClock.csproj.AssemblyReference.cache
+C:\Users\Lou\source\repos\LouClock\obj\Debug\net7.0\LouClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lou\source\repos\LouClock\obj\Debug\net7.0\LouClock.AssemblyInfoInputs.cache
+C:\Users\Lou\source\repos\LouClock\obj\Debug\net7.0\LouClock.AssemblyInfo.cs
+C:\Users\Lou\source\repos\LouClock\obj\Debug\net7.0\LouClock.csproj.CoreCompileInputs.cache
+C:\Users\Lou\source\repos\LouClock\obj\Debug\net7.0\LouClock.dll
+C:\Users\Lou\source\repos\LouClock\obj\Debug\net7.0\refint\LouClock.dll
+C:\Users\Lou\source\repos\LouClock\obj\Debug\net7.0\LouClock.pdb
+C:\Users\Lou\source\repos\LouClock\obj\Debug\net7.0\LouClock.genruntimeconfig.cache
+C:\Users\Lou\source\repos\LouClock\obj\Debug\net7.0\ref\LouClock.dll
