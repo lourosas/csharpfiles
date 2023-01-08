@@ -229,16 +229,15 @@ namespace LouClock
 
       public void Lap() 
       {
-         TimeSpan toSave = this.stopwatch.Elapsed;
-         TimeSpan lap = toSave.Subtract(current);
-         this.current = toSave;
-         //Console.WriteLine("Lap:  "+lap);
-         //Store into a Laps<TimeSpan> Stack
-         //alert the <<Observers>>
-         //observer.Lap(Laps);
-         this.lapStack.Push(lap);
-         this.observer.setLaps(this.lapStack);
-
+         //Can only Lap in the Run State...
+         if (this.run)
+         {
+            TimeSpan toSave = this.stopwatch.Elapsed;
+            TimeSpan lap = toSave.Subtract(current);
+            this.current = toSave;
+            this.lapStack.Push(lap);
+            this.observer.setLaps(this.lapStack);
+         }
       }
 
       public void Reset() { }
