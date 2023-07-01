@@ -1,0 +1,15 @@
+/home/lou/csharpfiles/MySecondApp/bin/Debug/net6.0/MySecondApp
+/home/lou/csharpfiles/MySecondApp/bin/Debug/net6.0/MySecondApp.deps.json
+/home/lou/csharpfiles/MySecondApp/bin/Debug/net6.0/MySecondApp.runtimeconfig.json
+/home/lou/csharpfiles/MySecondApp/bin/Debug/net6.0/MySecondApp.dll
+/home/lou/csharpfiles/MySecondApp/bin/Debug/net6.0/ref/MySecondApp.dll
+/home/lou/csharpfiles/MySecondApp/bin/Debug/net6.0/MySecondApp.pdb
+/home/lou/csharpfiles/MySecondApp/obj/Debug/net6.0/MySecondApp.csproj.AssemblyReference.cache
+/home/lou/csharpfiles/MySecondApp/obj/Debug/net6.0/MySecondApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/lou/csharpfiles/MySecondApp/obj/Debug/net6.0/MySecondApp.AssemblyInfoInputs.cache
+/home/lou/csharpfiles/MySecondApp/obj/Debug/net6.0/MySecondApp.AssemblyInfo.cs
+/home/lou/csharpfiles/MySecondApp/obj/Debug/net6.0/MySecondApp.csproj.CoreCompileInputs.cache
+/home/lou/csharpfiles/MySecondApp/obj/Debug/net6.0/MySecondApp.dll
+/home/lou/csharpfiles/MySecondApp/obj/Debug/net6.0/ref/MySecondApp.dll
+/home/lou/csharpfiles/MySecondApp/obj/Debug/net6.0/MySecondApp.pdb
+/home/lou/csharpfiles/MySecondApp/obj/Debug/net6.0/MySecondApp.genruntimeconfig.cache

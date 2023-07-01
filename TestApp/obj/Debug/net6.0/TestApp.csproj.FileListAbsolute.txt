@@ -1,0 +1,15 @@
+/home/lou/csharpfiles/TestApp/obj/Debug/net6.0/TestApp.csproj.AssemblyReference.cache
+/home/lou/csharpfiles/TestApp/obj/Debug/net6.0/TestApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/lou/csharpfiles/TestApp/obj/Debug/net6.0/TestApp.AssemblyInfoInputs.cache
+/home/lou/csharpfiles/TestApp/obj/Debug/net6.0/TestApp.AssemblyInfo.cs
+/home/lou/csharpfiles/TestApp/obj/Debug/net6.0/TestApp.csproj.CoreCompileInputs.cache
+/home/lou/csharpfiles/TestApp/bin/Debug/net6.0/TestApp
+/home/lou/csharpfiles/TestApp/bin/Debug/net6.0/TestApp.deps.json
+/home/lou/csharpfiles/TestApp/bin/Debug/net6.0/TestApp.runtimeconfig.json
+/home/lou/csharpfiles/TestApp/bin/Debug/net6.0/TestApp.dll
+/home/lou/csharpfiles/TestApp/bin/Debug/net6.0/ref/TestApp.dll
+/home/lou/csharpfiles/TestApp/bin/Debug/net6.0/TestApp.pdb
+/home/lou/csharpfiles/TestApp/obj/Debug/net6.0/TestApp.dll
+/home/lou/csharpfiles/TestApp/obj/Debug/net6.0/ref/TestApp.dll
+/home/lou/csharpfiles/TestApp/obj/Debug/net6.0/TestApp.pdb
+/home/lou/csharpfiles/TestApp/obj/Debug/net6.0/TestApp.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/lou/csharpfiles/MyFirstApp/bin/Debug/net6.0/MyFirstApp
+/home/lou/csharpfiles/MyFirstApp/bin/Debug/net6.0/MyFirstApp.deps.json
+/home/lou/csharpfiles/MyFirstApp/bin/Debug/net6.0/MyFirstApp.runtimeconfig.json
+/home/lou/csharpfiles/MyFirstApp/bin/Debug/net6.0/MyFirstApp.dll
+/home/lou/csharpfiles/MyFirstApp/bin/Debug/net6.0/ref/MyFirstApp.dll
+/home/lou/csharpfiles/MyFirstApp/bin/Debug/net6.0/MyFirstApp.pdb
+/home/lou/csharpfiles/MyFirstApp/obj/Debug/net6.0/MyFirstApp.csproj.AssemblyReference.cache
+/home/lou/csharpfiles/MyFirstApp/obj/Debug/net6.0/MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/lou/csharpfiles/MyFirstApp/obj/Debug/net6.0/MyFirstApp.AssemblyInfoInputs.cache
+/home/lou/csharpfiles/MyFirstApp/obj/Debug/net6.0/MyFirstApp.AssemblyInfo.cs
+/home/lou/csharpfiles/MyFirstApp/obj/Debug/net6.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/home/lou/csharpfiles/MyFirstApp/obj/Debug/net6.0/MyFirstApp.dll
+/home/lou/csharpfiles/MyFirstApp/obj/Debug/net6.0/ref/MyFirstApp.dll
+/home/lou/csharpfiles/MyFirstApp/obj/Debug/net6.0/MyFirstApp.pdb
+/home/lou/csharpfiles/MyFirstApp/obj/Debug/net6.0/MyFirstApp.genruntimeconfig.cache
